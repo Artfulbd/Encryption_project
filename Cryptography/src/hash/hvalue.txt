@@ -1,0 +1,2 @@
+File:-->> C:\Users\Artful\Desktop\sample.dat
+Digest->> b02cd7f0f862996950eca6a1f5c2fff02e0f29e4
