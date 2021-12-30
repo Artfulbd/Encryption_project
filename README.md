@@ -1,2 +1,21 @@
 # Encryption_project
-Basically it is an encryption decryption program. By my own algorithm, Developed after completing Data Structure course.. For me and my friend
+Basically it is an encryption decryption program. By my own algorithm, Developed after completing Data Structure course.. For me and my friend.
+Without prior knowledge of cryptography, developed due to my own interest and satisfaction. I was on my 3rd or 4th semister.
+1. Symetric algorithm.
+2. Cipher text will be different every time for same plain text, but length will be same.
+
+
+* Sample
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      plain text            |                                     ciphertext
+   ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+   hello world              | 110 87 103 77 99 80 114 95 111 95 | 116 108 102 86 108 95 122 103 112 85 | 
+   `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+   hello world              | 117 94 120 94 104 85 97 78 104 88 | 103 95 101 85 115 102 97 78 96 69 | 
+   `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+   some other text          | 109 97 106 90 102 84 104 78 | 102 86 112 101 110 87 121 95 107 94 | 112 101 107 81 98 91 120 109 | 
+   `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+   some other text          | 122 110 107 91 121 103 95 69 | 99 83 110 99 110 87 117 91 111 98 | 98 87 121 95 113 106 113 102 | 
+   `````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+   
+   
